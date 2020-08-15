@@ -1,0 +1,2 @@
+rootProject.name='DAMRI Test'
+include ':app'
